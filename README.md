@@ -1,2 +1,2 @@
 # odin-recipes
-THis is where I will type what I learn 
+This is a website of recipes that will help me learn HTML basics
